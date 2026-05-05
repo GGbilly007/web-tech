@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Modern Sofa",              "category": "Living Room", "price": 29,  "originalPrice": 59  },
+  { "id": 2, "name": "Floor Lamp",               "category": "Decor",       "price": 89,  "originalPrice": 95  },
+  { "id": 3, "name": "High Back Boss Chair",     "category": "Office",      "price": 68,  "originalPrice": 78  },
+  { "id": 4, "name": "Fancy Metal Clock",        "category": "Decor",       "price": 38,  "originalPrice": 58  },
+  { "id": 5, "name": "Comfort Chair",            "category": "Living Room", "price": 28,  "originalPrice": 38  },
+  { "id": 6, "name": "Modern Metal Frame Stool", "category": "Office",      "price": 18,  "originalPrice": 28  },
+  { "id": 7, "name": "Scandinavian Bed Frame",   "category": "Bedroom",     "price": 245, "originalPrice": 320 },
+  { "id": 8, "name": "Minimalist Nightstand",    "category": "Bedroom",     "price": 89,  "originalPrice": 110 },
+  { "id": 9, "name": "Velvet Accent Chair",      "category": "Living Room", "price": 149, "originalPrice": 199 }
+]
